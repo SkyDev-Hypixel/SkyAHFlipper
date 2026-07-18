@@ -1,6 +1,6 @@
 # SkyAHFlipper
 
-A Hypixel Skyblock auto-flipper macro designed specifically for Minecraft version **1.26.2**. Made with <3.
+A Hypixel Skyblock auto-flipper macro designed specifically for Minecraft version **1.26.2** fabric. Made with <3.
 
 ---
 
@@ -15,7 +15,7 @@ To run this macro properly, you must install the following required mods:
 *   **No Official Discord:** I do not have a Discord server for this project. If you see a Discord channel claiming to be associated with SkyAHFlipper, **it is probably a scam**. Do not download anything from random servers.
 
 ## 🛠️ Updates & Development
-I am a solo developer building this project on my own. Because of this, please be patient—I will not be able to update the mod super quickly when new patches or game updates drop.
+I am a solo developer building this project on my own. Because of this, please be patient—I will not be able to update the mod super quickly when new patches or game updates drop. If you have any issue free free to contact me: **moonlishyt@gmail.com**
 
 ---
 
